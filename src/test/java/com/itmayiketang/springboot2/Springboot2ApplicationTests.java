@@ -1,4 +1,4 @@
-package com.itmayikekang.springboot2;
+package com.itmayiketang.springboot2;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
