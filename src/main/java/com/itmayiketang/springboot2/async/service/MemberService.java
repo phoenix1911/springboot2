@@ -1,4 +1,4 @@
-package com.itmayiketang.springboot2.ay.service;
+package com.itmayiketang.springboot2.async.service;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.scheduling.annotation.Async;

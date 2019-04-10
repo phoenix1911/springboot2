@@ -1,6 +1,6 @@
-package com.itmayiketang.springboot2.ay.controller;
+package com.itmayiketang.springboot2.async.controller;
 
-import com.itmayiketang.springboot2.ay.service.MemberService;
+import com.itmayiketang.springboot2.async.service.MemberService;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
