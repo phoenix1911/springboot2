@@ -1,0 +1,13 @@
+name: jialong
+
+### 多环境配置
+spring:
+  profiles:
+    active: dev
+
+### 监控中心配置
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

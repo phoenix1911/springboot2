@@ -15,6 +15,6 @@ public class test2Controller {
 
     @RequestMapping("/2")
     public String test2() {
-        return "2 "+name;
+        return "233 "+name;
     }
 }

@@ -15,7 +15,32 @@ public class test1Controller {
 
     @RequestMapping("/1")
     public String test1(){
-        return "1 " +"http_url: "+http_url;
+        return "12 " +"http_url: "+http_url;
     }
+
+    @RequestMapping("/3")
+    public String test2(){
+        String result = "springboot";
+        Integer age = 3;
+        return result+age;
+    }
+
+    @RequestMapping("/4")
+    public String test3(){
+        String result = "springboot";
+        Integer age = 3;
+        return result+age;
+    }
+
+    @RequestMapping("/5")
+    public String test4(){
+        String result = "springboo";
+        Integer age = 3;
+        return result+age;
+    }
+
+
+
+
 
 }
